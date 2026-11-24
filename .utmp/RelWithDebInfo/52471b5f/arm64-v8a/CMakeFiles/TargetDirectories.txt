@@ -1,0 +1,8 @@
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Unity Projects/AR_Kelompok4_Unity6000.5.10f1/.utmp/RelWithDebInfo/52471b5f/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
